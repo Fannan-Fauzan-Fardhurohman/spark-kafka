@@ -1,4 +1,4 @@
-package com.fanxan.Memory.resources;
+package com.fanxan.Memory;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.common.serialization.StringDeserializer;
